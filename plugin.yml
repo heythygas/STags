@@ -1,0 +1,6 @@
+name: STags
+main: me.shady.tags.Main
+version: 1.0
+description: Apenas um simples plugin de tags
+commands:
+  tag:
